@@ -1,2 +1,1 @@
-print('testtest')
-print('aaa')
+print('lilili')
